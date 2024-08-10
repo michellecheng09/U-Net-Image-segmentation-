@@ -1,7 +1,6 @@
 # Image Segmentation of Breast Cancer Ultrasounds using U-Net Architecture 
 
-This project is focused on using a convolutional neural network to do image Segmentation on a set of breast cancer ultrasound images. The dataset is comprised 
-of benign, malignant and normal patient scans. The purpose of this project was to explore the implmentation of the U-Net architecture to encode and decode image data to complete the segmentation. The goal is for the model to predict the target mask for cancerours areas in scan. This has the potential to aid healthcare professionals with earlier diagnosis to improve treatement plans and patient care. 
+This project utilizes a convolutional neural network to perform image segmentation on breast cancer ultrasound images, including benign, malignant, and normal scans. The project implements the U-Net architecture to encode and decode image data for accurate segmentation, aiming to predict target masks for cancerous areas. This work has the potential to assist healthcare professionals in early diagnosis, ultimately improving treatment plans and patient care
 
 ![image](https://github.com/user-attachments/assets/dbc5a52c-625e-466b-920d-9df9213c939e)
 
