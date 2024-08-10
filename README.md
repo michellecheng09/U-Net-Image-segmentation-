@@ -9,5 +9,5 @@ of benign, malignant and normal patient scans. The purpose of this project was t
 Juptyer Notebook, Python, Tensorflow, Keras
 
 ## Contributers and Remarks
-Authors Michelle Cheng 
+Authors Michelle Cheng /n
 Professor Dr. Kandasamy Illanko 
